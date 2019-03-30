@@ -9,5 +9,7 @@
 * [mybatis](https://github.com/mybatis/mybatis-3)
 * [kafka](https://github.com/apache/kafka)
 * [redis](https://github.com/antirez/redis)
+* [elasticsearch-head](https://github.com/mobz/elasticsearch-head)
+* [Elasticsearch](https://github.com/elastic/elasticsearch)
 
 ## 收藏
