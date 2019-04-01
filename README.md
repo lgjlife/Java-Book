@@ -11,6 +11,7 @@
 * [redis](https://github.com/antirez/redis)
 * [Springboot](https://github.com/spring-projects/spring-boot)
 * [spring-framework](https://github.com/spring-projects/spring-framework)
+* [Spring-data-elaticsearch](https://github.com/spring-projects/spring-data-elasticsearch)
 * [Shiro](https://github.com/apache/shiro)
 * [Zookeeper](https://github.com/apache/zookeeper)
 
