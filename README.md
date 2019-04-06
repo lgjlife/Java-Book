@@ -19,7 +19,7 @@
 * [Zookeeper](https://github.com/apache/zookeeper)/[官网](http://zookeeper.apache.org/)
 
 ## 收藏
-
+* [《MyBatis 从入门到精通》配套仓库](https://github.com/mybatis-book/book)
 # 书籍推荐
 ## 计算机基础
 * 计算机科学导论  --(如果不是计算机科班的，应先看看计算机基础，了解一些基本概念，有助于之后的学习)
