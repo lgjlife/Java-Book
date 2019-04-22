@@ -3,6 +3,7 @@
 * [Dubbo](https://github.com/apache/incubator-dubbo)/[官网](http://dubbo.apache.org/zh-cn/)
 * [Elasticsearch-head](https://github.com/mobz/elasticsearch-head)/[官网](https://www.elastic.co/)
 * [Elasticsearch](https://github.com/elastic/elasticsearch)/[官网](https://www.elastic.co/)
+* [Jedis](https://github.com/xetorthio/jedis)
 * [Kafka](https://github.com/apache/kafka)/[官网](http://kafka.apache.org/)
 * [Mybatis](https://github.com/mybatis/mybatis-3)/[官网](https://blog.mybatis.org/)
 * [Mybatis P](https://github.com/baomidou/mybatis-plus)/[官网](https://mp.baomidou.com/)
