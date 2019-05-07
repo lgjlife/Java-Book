@@ -43,7 +43,12 @@
 * jls11
 * Effective Java  --(编写代码过程中的一些最佳实践，注意事项。现在已经出第二版了，增加了lambada的内容)
 * JAVA网络编程 第4版  --(BIO socket编程，现在基本不用了)
+
+## 性能优化
 * Java性能优化权威指南
+* Java性能权威指南
+* Java性能调优指南
+* Java程序性能优化
 
 ## Java 并发编程
 * Java多线程编程核心技术
@@ -89,7 +94,7 @@
 
 ## Elasticsearch
 * Elasticsearch大数据搜索引擎  -- (这本书不太好，概念不讲清楚，罗列代码，没有说明为什么要这么写)
-*  Elasticsearch服务器开发（第2版） --(这两本全面讲解ela的基本概念和使用，适合初学者)
+* Elasticsearch服务器开发（第2版） --(这两本全面讲解ela的基本概念和使用，适合初学者)
 * Elasticsearch权威指南（中文版）
 * 深入理解ElasticSearch  原书第2版 --(深入讲解实现原理)
 
