@@ -150,7 +150,7 @@
 * 第一本DOCKER书
 * 没什么难的Docker入门与开发实战
 * Docker开发指南
-* Docker开发实践
+* Docker开发实践(推荐这本书)
 
 ## Tomcat
 * Tomcat与Java Web开发技术详解
