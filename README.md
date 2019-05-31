@@ -134,7 +134,7 @@
 * 深入实践Spring+Boot
 * Spring Boot实战
 * Spring Cloud
-* Spring Cloud与Docker微服务架构实战
+* Spring Cloud与Docker微服务架构实战(仅讲解如何使用，没有原理说明)
 * Spring Cloud微服务实战
 * 深入理解Spring+Cloud与微服务构建
 * Spring Cloud微服务架构进阶
