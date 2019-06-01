@@ -25,6 +25,17 @@
 ## 收藏
 * [《MyBatis 从入门到精通》配套仓库](https://github.com/mybatis-book/book)
 * [Dockerfile Maven](https://github.com/spotify/dockerfile-maven)
+
+# 技术社区
+* [博客园](https://www.cnblogs.com/)
+* [开源中国](https://www.oschina.net/)
+* [stackoverflow](https://stackoverflow.com/)
+* [CSDN](https://www.csdn.net/)
+* [掘金](https://juejin.im/)
+* [技术文档下载](http://www.java1234.com/)
+* [leetcode](https://leetcode.com/)
+* [牛客网](https://www.nowcoder.com/)
+
 # 书籍推荐
 ## 计算机基础
 * 计算机科学导论  --(如果不是计算机科班的，应先看看计算机基础，了解一些基本概念，有助于之后的学习)
