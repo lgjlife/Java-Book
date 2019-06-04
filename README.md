@@ -25,6 +25,7 @@
 ## 收藏
 * [《MyBatis 从入门到精通》配套仓库](https://github.com/mybatis-book/book)
 * [Dockerfile Maven](https://github.com/spotify/dockerfile-maven)
+* [FastDFS_Client:fastdfs Java客户端](https://github.com/tobato/FastDFS_Client)
 
 # 技术社区
 * [博客园](https://www.cnblogs.com/)
