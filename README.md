@@ -194,7 +194,7 @@
 * TCP/IP详解  --(如果不从事协议开发，看卷一即可)
 * HTTP权威指南  --(对HTTP相对完整的描述)
 
-#  架构
+##  架构
 * 亿级流量网站架构核心技术 跟开涛学搭建高可用高并发系统
 * 分布式JAVA应用 基础与实践
 * 大型分布式网站架构设计与实践
@@ -214,3 +214,44 @@
 ## 其他
 * 颈椎病的防治与治疗  --(关注自身健康，拒绝ICU)
 
+# 常用工具
+## 编译器
+* IDEA （个人觉得IDEA比较好用）
+* Eclipse
+* MyEclipse
+
+## IDEA插件
+* Lombok： 使用注解，免去实体类中get /set/构造器等代码 ，需要引入lombok包
+* Alibaba Java Coding Guidelines ：《阿里巴巴Java开发规约》扫描插件,安装后右键单击选择扫描，会提示哪些地方不符合规范
+* MyBatis plugin ： 可以从mybatis mappe接口的方法直接跳转到mapper.xml配置文件
+* jclasslib: JClassLib不但是一个字节码阅读器而且还包含一个类库允许开发者读取,修改,写入Java Class文件与字节码
+
+## UML绘制
+* https://www.draw.io/ ：在线UML绘制工具，可以保存到本地或者Github
+
+## HTTP请求
+* POSTMAN（https://www.getpostman.com/）:一款功能强大的网页调试与发送网页HTTP请求的工具
+* curl指令
+
+## 前端开发编辑
+* IDEA
+* Brackets   代码提示，颜色区分
+* sublime_text_3   这个Linux下安装后，不支持中文输入，网上有解决办法。
+
+## 思维导图软件
+* MindMaster   多平台，免费，可以导出为图片。
+## 编辑器
+* VIM
+* GEDIT　
+
+## 调优工具
+* visualVm(https://visualvm.github.io/):是一款免费的,集成了多个 JDK 命令行工具的可视化工具,它能为您提供强大的分析能力,对 Java 应用程序做性能分析和调优.
+
+## 压测工具
+* Jmeter   可以开多个线程对接口进行压测，并分析压测结果。
+
+## 版本管理
+* git     
+* svn
+* 码云
+* Git在线练习
