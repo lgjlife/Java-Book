@@ -254,4 +254,4 @@
 * git     
 * svn
 * 码云
-* Git在线练习
+* Git在线练习 [try git](https://try.github.io/)/[git real](https://www.pluralsight.com/courses/code-school-git-real)/[Learn Git Branching](https://learngitbranching.js.org/)
