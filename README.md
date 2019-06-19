@@ -168,6 +168,9 @@
 * Docker开发指南
 * Docker开发实践(推荐这本书)
 
+## Jenkins
+* Jenkins权威指南 :white_check_mark:
+
 ## Tomcat
 * Tomcat与Java Web开发技术详解
 * Tomcat架构解析
