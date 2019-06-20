@@ -7,6 +7,7 @@
 * [Elasticsearch-head:el监控平台](https://github.com/mobz/elasticsearch-head)/[官网](https://www.elastic.co/)
 * [Elasticsearch:实时搜索](https://github.com/elastic/elasticsearch)/[官网](https://www.elastic.co/)
 * [FastDFS:分布式文件系统](https://github.com/happyfish100)
+* [Fescar:阿里开源分布式解决方案](https://github.com/seata)
 * [Jedis:redis JAVA客户端](https://github.com/xetorthio/jedis)
 * [Kafka:消息中间件](https://github.com/apache/kafka)/[官网](http://kafka.apache.org/)
 * [Mybatis:数据层ORM框架](https://github.com/mybatis/mybatis-3)/[官网](https://blog.mybatis.org/)
