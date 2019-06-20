@@ -1,5 +1,5 @@
 # Java学习资料整理
-:white_check_mark: | :recycle: | :clock130: |:white_check_mark_8:
+
 ## 框架
 * [Arthas:Alibaba开源的Java诊断工具,在线问题排查](https://github.com/alibaba/arthas/blob/master/README_CN.md)
 * [Dubbo:阿里分布式框架](https://github.com/apache/incubator-dubbo)/[官网](http://dubbo.apache.org/zh-cn/)
@@ -23,6 +23,7 @@
 * [spring-framework](https://github.com/spring-projects/spring-framework)/[官网](https://spring.io/projects/spring-boot/)
 * [Spring-data-elaticsearch:el　Ｓpring客户端](https://github.com/spring-projects/spring-data-elasticsearch)/[官网](https://spring.io/projects/spring-data-elasticsearch)
 * [Shiro:认证登录框架](https://github.com/apache/shiro)/[官网](http://shiro.apache.org/)
+* [tx-lcn:分布式事务解决](https://github.com/codingapi/tx-lcn)/[官网](https://www.txlcn.org/zh-cn/)
 * [Zookeeper:分布式协调系统](https://github.com/apache/zookeeper)/[官网](http://zookeeper.apache.org/)
 
 ## 收藏
