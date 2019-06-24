@@ -22,6 +22,7 @@
 * [Redis:高性能缓存](https://github.com/antirez/redis)/[官网](https://redis.io/)
 * [Redisson:Ｒedis客户端，集成分布式锁](https://github.com/redisson/redisson)/[官网](https://redisson.org/)
 * [Springboot:Spring项目快速开发框架](https://github.com/spring-projects/spring-boot)/[官网](https://spring.io/projects/spring-boot/)
+* [SpringCloud](https://github.com/spring-cloud)
 * [spring-framework](https://github.com/spring-projects/spring-framework)/[官网](https://spring.io/projects/spring-boot/)
 * [Spring-data-elaticsearch:el　Ｓpring客户端](https://github.com/spring-projects/spring-data-elasticsearch)/[官网](https://spring.io/projects/spring-data-elasticsearch)
 * [Shiro:认证登录框架](https://github.com/apache/shiro)/[官网](http://shiro.apache.org/)
