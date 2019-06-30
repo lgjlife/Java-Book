@@ -241,6 +241,7 @@
 * curl指令
 
 ## 前端开发编辑
+* [vscode](https://code.visualstudio.com/Download)
 * IDEA
 * Brackets   代码提示，颜色区分
 * sublime_text_3   这个Linux下安装后，不支持中文输入，网上有解决办法。
