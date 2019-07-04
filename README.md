@@ -43,6 +43,7 @@
 * [技术文档下载](http://www.java1234.com/)
 * [leetcode](https://leetcode.com/)
 * [牛客网](https://www.nowcoder.com/)
+* [思否](https://segmentfault.com/)
 
 # 书籍推荐
 ## 计算机基础
