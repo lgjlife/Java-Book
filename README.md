@@ -235,6 +235,9 @@
 * MyBatis plugin ： 可以从mybatis mappe接口的方法直接跳转到mapper.xml配置文件
 * jclasslib: JClassLib不但是一个字节码阅读器而且还包含一个类库允许开发者读取,修改,写入Java Class文件与字节码
 
+## 数据库管理
+* mysql workbench
+
 ## UML绘制
 * https://www.draw.io/ ：在线UML绘制工具，可以保存到本地或者Github
 
