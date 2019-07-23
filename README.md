@@ -21,6 +21,7 @@
 * [Rocketmq:消息中间件](https://github.com/apache/rocketmq)/[官网](http://rocketmq.apache.org/)
 * [Redis:高性能缓存](https://github.com/antirez/redis)/[官网](https://redis.io/)
 * [Redisson:Ｒedis客户端，集成分布式锁](https://github.com/redisson/redisson)/[官网](https://redisson.org/)
+* [Redis布隆过滤器](https://github.com/RedisBloom/RedisBloom)
 * [Springboot:Spring项目快速开发框架](https://github.com/spring-projects/spring-boot)/[官网](https://spring.io/projects/spring-boot/)
 * [SpringCloud](https://github.com/spring-cloud)
 * [spring-framework](https://github.com/spring-projects/spring-framework)/[官网](https://spring.io/projects/spring-boot/)
