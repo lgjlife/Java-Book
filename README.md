@@ -35,6 +35,7 @@
 * [Dockerfile Maven](https://github.com/spotify/dockerfile-maven)
 * [FastDFS_Client:fastdfs Java客户端](https://github.com/tobato/FastDFS_Client)
 * [美团Leaf分布式ID生成方案](https://github.com/Meituan-Dianping/Leaf)/[介绍](https://tech.meituan.com/2019/03/07/open-source-project-leaf.html)
+* [zipkin-server](https://github.com/openzipkin/zipkin/tree/master/zipkin-server)
 # 技术社区
 * [博客园](https://www.cnblogs.com/)
 * [开源中国](https://www.oschina.net/)
