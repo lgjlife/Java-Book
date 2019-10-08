@@ -9,6 +9,7 @@
 * [Elasticsearch:实时搜索](https://github.com/elastic/elasticsearch)/[官网](https://www.elastic.co/)
 * [FastDFS:分布式文件系统](https://github.com/happyfish100)
 * [Fescar:阿里开源分布式解决方案](https://github.com/seata)
+* [haproxy高可用性、负载均衡的代理](https://github.com/haproxy/haproxy)/[官网](https://www.haproxy.com/products/haproxy-enterprise-edition/)
 * [Jedis:redis JAVA客户端](https://github.com/xetorthio/jedis)
 * [Kafka:消息中间件](https://github.com/apache/kafka)/[官网](http://kafka.apache.org/)
 * [Mybatis:数据层ORM框架](https://github.com/mybatis/mybatis-3)/[官网](https://blog.mybatis.org/)
